@@ -2,9 +2,9 @@
 
 ### Deadline: October 24, 2024, 23:59
 
-### Name:
+### Name: Ruilizhen HU
 
-### Student ID:
+### Student ID: 122090168
 
 ---
 
@@ -211,6 +211,10 @@ Begin by launching your AWS Academy Learner Lab and ensuring your AWS credential
    -Body '{"values": [[<value1>, <value2>, <value3>, <value4>]]}'
   ```
 
+  In my case, I use `MacBook Air 2022`:
+
+  ![Curl Result](images/curl-result.jpg)
+
 ### 7. Load Testing and Analysis
 
 #### Load Testing
@@ -229,6 +233,8 @@ pip install locust
 ```bash
 locust -f locustfile.py --host https://<your_api_gateway_id>.execute-api.us-east-1.amazonaws.com --users 10 --spawn-rate 5 --run-time 60s --csv "locust_logs/test" --csv-full-history --html "locust_logs/test_locust_report.html" --logfile "locust_logs/test_locust_logs.txt" --headless
 ```
+
+![Locust Result](images/locust-result.jpg)
 
 For Windows users, set the PATH for `locust`, or directly use the `locust.exe`, specifying its path, e.g.:
 
@@ -250,19 +256,19 @@ You will receive 1 point for including the required figures in your `.ipynb`: a 
 
    What is the role of a Lambda function in serverless deployment? How does the `lambda_handler` function work to process requests?
 
-   **Answer**: &lt;You answer goes here&gt;.
+   **Answer**: An AWS Lambda function is the core component that executes your application logic in a serverless environment, allowing you to **run code without provisioning or managing servers**. It's responsible for **processing events and returning results**. The lambda_handler is **the entry point** where the execution begins when an event **triggers the Lambda function**. It takes two parameters: event, which contains data about the triggering event, and context, which provides runtime information (we don't use context in this assignment). This function **processes the request and returns a response**.
 
 2. **API Gateway and Lambda Integration** (0.5 point):
 
    Explain the purpose of API Gateway in this deployment process. How does it route requests to the Lambda function?
 
-   **Answer**: &lt;You answer goes here&gt;.
+   **Answer**: API Gateway acts as a **front door for applications** to access back-end services, providing features like authentication, authorization, and rate limiting, while **routing requests to the appropriate backend service**, such as an AWS Lambda function.
 
 3. **ECR Role** (0.5 point):
 
    What is the role of ECR in this deployment? How does it integrate with Lambda for managing containerized applications?
 
-   **Answer**: &lt;You answer goes here&gt;.
+   **Answer**: ECR serves as a **repository for Docker container images**, enabling to store, manage, and deploy them. In the context of Lambda, it allows for the use of containerized applications, giving developers **more control over their runtime environments**.
 
 ### Analysis of Cold Start Phenomenon
 
@@ -270,13 +276,20 @@ You will receive 1 point for including the required figures in your `.ipynb`: a 
 
    Provide your analysis comparing the performance of requests during cold starts versus warm requests (based on the line graph and histograms you obtained in `performance_analysis.ipynb`). Discuss the differences in response times and any notable patterns observed during your load testing.
 
-   **Answer**: &lt;You answer goes here&gt;.
+   **Answer**: A cold start occurs when a Lambda function is invoked for the first time or after a period of inactivity. During a cold start, Lambda **needs to set up the execution environment, load the runtime, and initialize your code, leading to a longer initial latency**. In contrast, warm requests are those that occur after the Lambda instance has been activated and remains active. Since the environment is already initialized, these requests typically experience much **faster response times**. During load testing, the very first requests (cold starts) shows a noticeable spike in latency, while subsequent requests, if they occur within a short timeframe, exhibit more stable and lower latencies (warm requests). The charts show that under high concurrency, continuous warm requests maintain a relatively steady and fast response time, whereas cold starts introduce unpredictable delays.
+
+    ![Cold Start vs. Warm Requests](./images/performance.png)
+
+    I set the `#user = 10`, and found that first 10 requests are cold starts since they have significant latency. You can see them in the log file.
+
+    ![Cold Start](./images/cold-start.png)
+    ![Hot Requests](./images/hot-request.png)
 
 5. **Implications and Strategies** (0.5 Point):
 
    Discuss the implications of cold starts on serverless applications and how they affect performance. What strategies can be employed to mitigate these effects?
 
-   **Answer**: &lt;You answer goes here&gt;.
+   **Answer**: Implement a mechanism to periodically send **"dummy" requests** to keep the Lambda function warm. This ensures that the function is ready to respond immediately when actual user requests come in.
 
 ## Submission Requirements
 

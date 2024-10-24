@@ -1,6 +1,6 @@
 FROM public.ecr.aws/lambda/python:3.8
 
-RUN pip install scikit-learn==0.23.2 numpy==1.19.5
+RUN pip install scikit-learn numpy
 
 COPY iris_model.sav .
 COPY lambda_function.py .

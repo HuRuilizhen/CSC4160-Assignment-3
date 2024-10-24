@@ -1,0 +1,430 @@
+[2024-10-24 18:20:30,403] huruilizhens-MacBook-Air/INFO/locust.main: Starting Locust 2.32.0
+[2024-10-24 18:20:30,408] huruilizhens-MacBook-Air/INFO/locust.main: Run time limit set to 60 seconds
+[2024-10-24 18:20:30,408] huruilizhens-MacBook-Air/INFO/locust.runners: Ramping to 10 users at a rate of 20.00 per second
+[2024-10-24 18:20:30,409] huruilizhens-MacBook-Air/INFO/locust.runners: All users spawned: {"LambdaTestUser": 10} (10 total users)
+[2024-10-24 18:20:31,500] huruilizhens-MacBook-Air/INFO/root: Response time: 1085.50 ms
+[2024-10-24 18:20:31,501] huruilizhens-MacBook-Air/INFO/root: Response status code: 200
+[2024-10-24 18:20:31,501] huruilizhens-MacBook-Air/INFO/root: Response text: [2]
+[2024-10-24 18:20:31,501] huruilizhens-MacBook-Air/INFO/root: Response time: 1087.53 ms
+[2024-10-24 18:20:31,502] huruilizhens-MacBook-Air/INFO/root: Response status code: 200
+[2024-10-24 18:20:31,502] huruilizhens-MacBook-Air/INFO/root: Response text: [2]
+[2024-10-24 18:20:31,504] huruilizhens-MacBook-Air/INFO/root: Response time: 1088.92 ms
+[2024-10-24 18:20:31,504] huruilizhens-MacBook-Air/INFO/root: Response status code: 200
+[2024-10-24 18:20:31,504] huruilizhens-MacBook-Air/INFO/root: Response text: [2]
+[2024-10-24 18:20:31,506] huruilizhens-MacBook-Air/INFO/root: Response time: 1092.77 ms
+[2024-10-24 18:20:31,507] huruilizhens-MacBook-Air/INFO/root: Response status code: 200
+[2024-10-24 18:20:31,507] huruilizhens-MacBook-Air/INFO/root: Response text: [2]
+[2024-10-24 18:20:31,512] huruilizhens-MacBook-Air/INFO/root: Response time: 1098.22 ms
+[2024-10-24 18:20:31,513] huruilizhens-MacBook-Air/INFO/root: Response status code: 200
+[2024-10-24 18:20:31,513] huruilizhens-MacBook-Air/INFO/root: Response text: [2]
+[2024-10-24 18:20:31,519] huruilizhens-MacBook-Air/INFO/root: Response time: 1103.99 ms
+[2024-10-24 18:20:31,519] huruilizhens-MacBook-Air/INFO/root: Response status code: 200
+[2024-10-24 18:20:31,519] huruilizhens-MacBook-Air/INFO/root: Response text: [2]
+[2024-10-24 18:20:31,521] huruilizhens-MacBook-Air/INFO/root: Response time: 1106.40 ms
+[2024-10-24 18:20:31,521] huruilizhens-MacBook-Air/INFO/root: Response status code: 200
+[2024-10-24 18:20:31,522] huruilizhens-MacBook-Air/INFO/root: Response text: [2]
+[2024-10-24 18:20:31,524] huruilizhens-MacBook-Air/INFO/root: Response time: 1109.48 ms
+[2024-10-24 18:20:31,524] huruilizhens-MacBook-Air/INFO/root: Response status code: 200
+[2024-10-24 18:20:31,524] huruilizhens-MacBook-Air/INFO/root: Response text: [2]
+[2024-10-24 18:20:31,531] huruilizhens-MacBook-Air/INFO/root: Response time: 1116.86 ms
+[2024-10-24 18:20:31,531] huruilizhens-MacBook-Air/INFO/root: Response status code: 200
+[2024-10-24 18:20:31,531] huruilizhens-MacBook-Air/INFO/root: Response text: [2]
+[2024-10-24 18:20:31,544] huruilizhens-MacBook-Air/INFO/root: Response time: 1134.85 ms
+[2024-10-24 18:20:31,544] huruilizhens-MacBook-Air/INFO/root: Response status code: 200
+[2024-10-24 18:20:31,544] huruilizhens-MacBook-Air/INFO/root: Response text: [2]
+[2024-10-24 18:20:35,194] huruilizhens-MacBook-Air/INFO/root: Response time: 324.92 ms
+[2024-10-24 18:20:35,194] huruilizhens-MacBook-Air/INFO/root: Response status code: 200
+[2024-10-24 18:20:35,194] huruilizhens-MacBook-Air/INFO/root: Response text: [2]
+[2024-10-24 18:20:35,210] huruilizhens-MacBook-Air/INFO/root: Response time: 351.56 ms
+[2024-10-24 18:20:35,210] huruilizhens-MacBook-Air/INFO/root: Response status code: 200
+[2024-10-24 18:20:35,210] huruilizhens-MacBook-Air/INFO/root: Response text: [2]
+[2024-10-24 18:20:35,356] huruilizhens-MacBook-Air/INFO/root: Response time: 314.18 ms
+[2024-10-24 18:20:35,356] huruilizhens-MacBook-Air/INFO/root: Response status code: 200
+[2024-10-24 18:20:35,356] huruilizhens-MacBook-Air/INFO/root: Response text: [2]
+[2024-10-24 18:20:35,375] huruilizhens-MacBook-Air/INFO/root: Response time: 316.53 ms
+[2024-10-24 18:20:35,376] huruilizhens-MacBook-Air/INFO/root: Response status code: 200
+[2024-10-24 18:20:35,376] huruilizhens-MacBook-Air/INFO/root: Response text: [2]
+[2024-10-24 18:20:35,921] huruilizhens-MacBook-Air/INFO/root: Response time: 308.08 ms
+[2024-10-24 18:20:35,921] huruilizhens-MacBook-Air/INFO/root: Response status code: 200
+[2024-10-24 18:20:35,921] huruilizhens-MacBook-Air/INFO/root: Response text: [2]
+[2024-10-24 18:20:35,964] huruilizhens-MacBook-Air/INFO/root: Response time: 309.77 ms
+[2024-10-24 18:20:35,965] huruilizhens-MacBook-Air/INFO/root: Response status code: 200
+[2024-10-24 18:20:35,965] huruilizhens-MacBook-Air/INFO/root: Response text: [2]
+[2024-10-24 18:20:36,135] huruilizhens-MacBook-Air/INFO/root: Response time: 313.71 ms
+[2024-10-24 18:20:36,136] huruilizhens-MacBook-Air/INFO/root: Response status code: 200
+[2024-10-24 18:20:36,136] huruilizhens-MacBook-Air/INFO/root: Response text: [2]
+[2024-10-24 18:20:36,240] huruilizhens-MacBook-Air/INFO/root: Response time: 321.94 ms
+[2024-10-24 18:20:36,240] huruilizhens-MacBook-Air/INFO/root: Response status code: 200
+[2024-10-24 18:20:36,240] huruilizhens-MacBook-Air/INFO/root: Response text: [2]
+[2024-10-24 18:20:36,565] huruilizhens-MacBook-Air/INFO/root: Response time: 327.78 ms
+[2024-10-24 18:20:36,566] huruilizhens-MacBook-Air/INFO/root: Response status code: 200
+[2024-10-24 18:20:36,566] huruilizhens-MacBook-Air/INFO/root: Response text: [2]
+[2024-10-24 18:20:36,748] huruilizhens-MacBook-Air/INFO/root: Response time: 323.75 ms
+[2024-10-24 18:20:36,748] huruilizhens-MacBook-Air/INFO/root: Response status code: 200
+[2024-10-24 18:20:36,748] huruilizhens-MacBook-Air/INFO/root: Response text: [2]
+[2024-10-24 18:20:38,877] huruilizhens-MacBook-Air/INFO/root: Response time: 424.13 ms
+[2024-10-24 18:20:38,878] huruilizhens-MacBook-Air/INFO/root: Response status code: 200
+[2024-10-24 18:20:38,878] huruilizhens-MacBook-Air/INFO/root: Response text: [2]
+[2024-10-24 18:20:38,898] huruilizhens-MacBook-Air/INFO/root: Response time: 315.84 ms
+[2024-10-24 18:20:38,898] huruilizhens-MacBook-Air/INFO/root: Response status code: 200
+[2024-10-24 18:20:38,898] huruilizhens-MacBook-Air/INFO/root: Response text: [2]
+[2024-10-24 18:20:39,147] huruilizhens-MacBook-Air/INFO/root: Response time: 330.45 ms
+[2024-10-24 18:20:39,147] huruilizhens-MacBook-Air/INFO/root: Response status code: 200
+[2024-10-24 18:20:39,147] huruilizhens-MacBook-Air/INFO/root: Response text: [2]
+[2024-10-24 18:20:39,792] huruilizhens-MacBook-Air/INFO/root: Response time: 325.26 ms
+[2024-10-24 18:20:39,792] huruilizhens-MacBook-Air/INFO/root: Response status code: 200
+[2024-10-24 18:20:39,792] huruilizhens-MacBook-Air/INFO/root: Response text: [2]
+[2024-10-24 18:20:40,012] huruilizhens-MacBook-Air/INFO/root: Response time: 334.55 ms
+[2024-10-24 18:20:40,012] huruilizhens-MacBook-Air/INFO/root: Response status code: 200
+[2024-10-24 18:20:40,012] huruilizhens-MacBook-Air/INFO/root: Response text: [2]
+[2024-10-24 18:20:40,245] huruilizhens-MacBook-Air/INFO/root: Response time: 326.41 ms
+[2024-10-24 18:20:40,246] huruilizhens-MacBook-Air/INFO/root: Response status code: 200
+[2024-10-24 18:20:40,246] huruilizhens-MacBook-Air/INFO/root: Response text: [2]
+[2024-10-24 18:20:40,327] huruilizhens-MacBook-Air/INFO/root: Response time: 321.73 ms
+[2024-10-24 18:20:40,328] huruilizhens-MacBook-Air/INFO/root: Response status code: 200
+[2024-10-24 18:20:40,328] huruilizhens-MacBook-Air/INFO/root: Response text: [2]
+[2024-10-24 18:20:40,484] huruilizhens-MacBook-Air/INFO/root: Response time: 326.65 ms
+[2024-10-24 18:20:40,485] huruilizhens-MacBook-Air/INFO/root: Response status code: 200
+[2024-10-24 18:20:40,485] huruilizhens-MacBook-Air/INFO/root: Response text: [2]
+[2024-10-24 18:20:40,675] huruilizhens-MacBook-Air/INFO/root: Response time: 325.75 ms
+[2024-10-24 18:20:40,675] huruilizhens-MacBook-Air/INFO/root: Response status code: 200
+[2024-10-24 18:20:40,675] huruilizhens-MacBook-Air/INFO/root: Response text: [2]
+[2024-10-24 18:20:41,281] huruilizhens-MacBook-Air/INFO/root: Response time: 339.45 ms
+[2024-10-24 18:20:41,281] huruilizhens-MacBook-Air/INFO/root: Response status code: 200
+[2024-10-24 18:20:41,281] huruilizhens-MacBook-Air/INFO/root: Response text: [2]
+[2024-10-24 18:20:43,054] huruilizhens-MacBook-Air/INFO/root: Response time: 309.82 ms
+[2024-10-24 18:20:43,054] huruilizhens-MacBook-Air/INFO/root: Response status code: 200
+[2024-10-24 18:20:43,054] huruilizhens-MacBook-Air/INFO/root: Response text: [2]
+[2024-10-24 18:20:43,424] huruilizhens-MacBook-Air/INFO/root: Response time: 331.00 ms
+[2024-10-24 18:20:43,425] huruilizhens-MacBook-Air/INFO/root: Response status code: 200
+[2024-10-24 18:20:43,425] huruilizhens-MacBook-Air/INFO/root: Response text: [2]
+[2024-10-24 18:20:43,864] huruilizhens-MacBook-Air/INFO/root: Response time: 334.24 ms
+[2024-10-24 18:20:43,864] huruilizhens-MacBook-Air/INFO/root: Response status code: 200
+[2024-10-24 18:20:43,864] huruilizhens-MacBook-Air/INFO/root: Response text: [2]
+[2024-10-24 18:20:44,110] huruilizhens-MacBook-Air/INFO/root: Response time: 338.15 ms
+[2024-10-24 18:20:44,110] huruilizhens-MacBook-Air/INFO/root: Response status code: 200
+[2024-10-24 18:20:44,110] huruilizhens-MacBook-Air/INFO/root: Response text: [2]
+[2024-10-24 18:20:44,232] huruilizhens-MacBook-Air/INFO/root: Response time: 332.88 ms
+[2024-10-24 18:20:44,232] huruilizhens-MacBook-Air/INFO/root: Response status code: 200
+[2024-10-24 18:20:44,233] huruilizhens-MacBook-Air/INFO/root: Response text: [2]
+[2024-10-24 18:20:44,409] huruilizhens-MacBook-Air/INFO/root: Response time: 298.32 ms
+[2024-10-24 18:20:44,409] huruilizhens-MacBook-Air/INFO/root: Response status code: 200
+[2024-10-24 18:20:44,410] huruilizhens-MacBook-Air/INFO/root: Response text: [2]
+[2024-10-24 18:20:44,626] huruilizhens-MacBook-Air/INFO/root: Response time: 284.11 ms
+[2024-10-24 18:20:44,626] huruilizhens-MacBook-Air/INFO/root: Response status code: 200
+[2024-10-24 18:20:44,626] huruilizhens-MacBook-Air/INFO/root: Response text: [2]
+[2024-10-24 18:20:44,929] huruilizhens-MacBook-Air/INFO/root: Response time: 353.13 ms
+[2024-10-24 18:20:44,930] huruilizhens-MacBook-Air/INFO/root: Response status code: 200
+[2024-10-24 18:20:44,930] huruilizhens-MacBook-Air/INFO/root: Response text: [2]
+[2024-10-24 18:20:45,042] huruilizhens-MacBook-Air/INFO/root: Response time: 309.98 ms
+[2024-10-24 18:20:45,043] huruilizhens-MacBook-Air/INFO/root: Response status code: 200
+[2024-10-24 18:20:45,043] huruilizhens-MacBook-Air/INFO/root: Response text: [2]
+[2024-10-24 18:20:45,706] huruilizhens-MacBook-Air/INFO/root: Response time: 429.73 ms
+[2024-10-24 18:20:45,706] huruilizhens-MacBook-Air/INFO/root: Response status code: 200
+[2024-10-24 18:20:45,706] huruilizhens-MacBook-Air/INFO/root: Response text: [2]
+[2024-10-24 18:20:47,322] huruilizhens-MacBook-Air/INFO/root: Response time: 306.93 ms
+[2024-10-24 18:20:47,322] huruilizhens-MacBook-Air/INFO/root: Response status code: 200
+[2024-10-24 18:20:47,323] huruilizhens-MacBook-Air/INFO/root: Response text: [2]
+[2024-10-24 18:20:47,455] huruilizhens-MacBook-Air/INFO/root: Response time: 311.71 ms
+[2024-10-24 18:20:47,456] huruilizhens-MacBook-Air/INFO/root: Response status code: 200
+[2024-10-24 18:20:47,456] huruilizhens-MacBook-Air/INFO/root: Response text: [2]
+[2024-10-24 18:20:47,900] huruilizhens-MacBook-Air/INFO/root: Response time: 308.69 ms
+[2024-10-24 18:20:47,900] huruilizhens-MacBook-Air/INFO/root: Response status code: 200
+[2024-10-24 18:20:47,900] huruilizhens-MacBook-Air/INFO/root: Response text: [2]
+[2024-10-24 18:20:48,059] huruilizhens-MacBook-Air/INFO/root: Response time: 304.05 ms
+[2024-10-24 18:20:48,059] huruilizhens-MacBook-Air/INFO/root: Response status code: 200
+[2024-10-24 18:20:48,059] huruilizhens-MacBook-Air/INFO/root: Response text: [2]
+[2024-10-24 18:20:48,899] huruilizhens-MacBook-Air/INFO/root: Response time: 303.25 ms
+[2024-10-24 18:20:48,899] huruilizhens-MacBook-Air/INFO/root: Response status code: 200
+[2024-10-24 18:20:48,899] huruilizhens-MacBook-Air/INFO/root: Response text: [2]
+[2024-10-24 18:20:49,075] huruilizhens-MacBook-Air/INFO/root: Response time: 299.02 ms
+[2024-10-24 18:20:49,075] huruilizhens-MacBook-Air/INFO/root: Response status code: 200
+[2024-10-24 18:20:49,076] huruilizhens-MacBook-Air/INFO/root: Response text: [2]
+[2024-10-24 18:20:49,910] huruilizhens-MacBook-Air/INFO/root: Response time: 318.59 ms
+[2024-10-24 18:20:49,911] huruilizhens-MacBook-Air/INFO/root: Response status code: 200
+[2024-10-24 18:20:49,911] huruilizhens-MacBook-Air/INFO/root: Response text: [2]
+[2024-10-24 18:20:50,087] huruilizhens-MacBook-Air/INFO/root: Response time: 311.51 ms
+[2024-10-24 18:20:50,087] huruilizhens-MacBook-Air/INFO/root: Response status code: 200
+[2024-10-24 18:20:50,088] huruilizhens-MacBook-Air/INFO/root: Response text: [2]
+[2024-10-24 18:20:50,111] huruilizhens-MacBook-Air/INFO/root: Response time: 313.86 ms
+[2024-10-24 18:20:50,111] huruilizhens-MacBook-Air/INFO/root: Response status code: 200
+[2024-10-24 18:20:50,111] huruilizhens-MacBook-Air/INFO/root: Response text: [2]
+[2024-10-24 18:20:50,356] huruilizhens-MacBook-Air/INFO/root: Response time: 315.47 ms
+[2024-10-24 18:20:50,356] huruilizhens-MacBook-Air/INFO/root: Response status code: 200
+[2024-10-24 18:20:50,356] huruilizhens-MacBook-Air/INFO/root: Response text: [2]
+[2024-10-24 18:20:51,563] huruilizhens-MacBook-Air/INFO/root: Response time: 318.56 ms
+[2024-10-24 18:20:51,563] huruilizhens-MacBook-Air/INFO/root: Response status code: 200
+[2024-10-24 18:20:51,563] huruilizhens-MacBook-Air/INFO/root: Response text: [2]
+[2024-10-24 18:20:51,579] huruilizhens-MacBook-Air/INFO/root: Response time: 319.06 ms
+[2024-10-24 18:20:51,579] huruilizhens-MacBook-Air/INFO/root: Response status code: 200
+[2024-10-24 18:20:51,579] huruilizhens-MacBook-Air/INFO/root: Response text: [2]
+[2024-10-24 18:20:51,852] huruilizhens-MacBook-Air/INFO/root: Response time: 322.82 ms
+[2024-10-24 18:20:51,853] huruilizhens-MacBook-Air/INFO/root: Response status code: 200
+[2024-10-24 18:20:51,853] huruilizhens-MacBook-Air/INFO/root: Response text: [2]
+[2024-10-24 18:20:52,613] huruilizhens-MacBook-Air/INFO/root: Response time: 327.48 ms
+[2024-10-24 18:20:52,613] huruilizhens-MacBook-Air/INFO/root: Response status code: 200
+[2024-10-24 18:20:52,613] huruilizhens-MacBook-Air/INFO/root: Response text: [2]
+[2024-10-24 18:20:53,984] huruilizhens-MacBook-Air/INFO/root: Response time: 323.78 ms
+[2024-10-24 18:20:53,984] huruilizhens-MacBook-Air/INFO/root: Response status code: 200
+[2024-10-24 18:20:53,984] huruilizhens-MacBook-Air/INFO/root: Response text: [2]
+[2024-10-24 18:20:54,289] huruilizhens-MacBook-Air/INFO/root: Response time: 325.36 ms
+[2024-10-24 18:20:54,289] huruilizhens-MacBook-Air/INFO/root: Response status code: 200
+[2024-10-24 18:20:54,289] huruilizhens-MacBook-Air/INFO/root: Response text: [2]
+[2024-10-24 18:20:54,488] huruilizhens-MacBook-Air/INFO/root: Response time: 325.57 ms
+[2024-10-24 18:20:54,488] huruilizhens-MacBook-Air/INFO/root: Response status code: 200
+[2024-10-24 18:20:54,488] huruilizhens-MacBook-Air/INFO/root: Response text: [2]
+[2024-10-24 18:20:54,824] huruilizhens-MacBook-Air/INFO/root: Response time: 320.73 ms
+[2024-10-24 18:20:54,825] huruilizhens-MacBook-Air/INFO/root: Response status code: 200
+[2024-10-24 18:20:54,825] huruilizhens-MacBook-Air/INFO/root: Response text: [2]
+[2024-10-24 18:20:55,119] huruilizhens-MacBook-Air/INFO/root: Response time: 296.65 ms
+[2024-10-24 18:20:55,119] huruilizhens-MacBook-Air/INFO/root: Response status code: 200
+[2024-10-24 18:20:55,119] huruilizhens-MacBook-Air/INFO/root: Response text: [2]
+[2024-10-24 18:20:55,269] huruilizhens-MacBook-Air/INFO/root: Response time: 292.71 ms
+[2024-10-24 18:20:55,270] huruilizhens-MacBook-Air/INFO/root: Response status code: 200
+[2024-10-24 18:20:55,270] huruilizhens-MacBook-Air/INFO/root: Response text: [2]
+[2024-10-24 18:20:55,646] huruilizhens-MacBook-Air/INFO/root: Response time: 328.01 ms
+[2024-10-24 18:20:55,646] huruilizhens-MacBook-Air/INFO/root: Response status code: 200
+[2024-10-24 18:20:55,647] huruilizhens-MacBook-Air/INFO/root: Response text: [2]
+[2024-10-24 18:20:55,930] huruilizhens-MacBook-Air/INFO/root: Response time: 357.49 ms
+[2024-10-24 18:20:55,931] huruilizhens-MacBook-Air/INFO/root: Response status code: 200
+[2024-10-24 18:20:55,931] huruilizhens-MacBook-Air/INFO/root: Response text: [2]
+[2024-10-24 18:20:56,355] huruilizhens-MacBook-Air/INFO/root: Response time: 406.44 ms
+[2024-10-24 18:20:56,356] huruilizhens-MacBook-Air/INFO/root: Response status code: 200
+[2024-10-24 18:20:56,356] huruilizhens-MacBook-Air/INFO/root: Response text: [2]
+[2024-10-24 18:20:57,459] huruilizhens-MacBook-Air/INFO/root: Response time: 311.22 ms
+[2024-10-24 18:20:57,460] huruilizhens-MacBook-Air/INFO/root: Response status code: 200
+[2024-10-24 18:20:57,460] huruilizhens-MacBook-Air/INFO/root: Response text: [2]
+[2024-10-24 18:20:58,587] huruilizhens-MacBook-Air/INFO/root: Response time: 329.55 ms
+[2024-10-24 18:20:58,587] huruilizhens-MacBook-Air/INFO/root: Response status code: 200
+[2024-10-24 18:20:58,587] huruilizhens-MacBook-Air/INFO/root: Response text: [2]
+[2024-10-24 18:20:58,676] huruilizhens-MacBook-Air/INFO/root: Response time: 330.23 ms
+[2024-10-24 18:20:58,676] huruilizhens-MacBook-Air/INFO/root: Response status code: 200
+[2024-10-24 18:20:58,676] huruilizhens-MacBook-Air/INFO/root: Response text: [2]
+[2024-10-24 18:20:58,709] huruilizhens-MacBook-Air/INFO/root: Response time: 321.58 ms
+[2024-10-24 18:20:58,709] huruilizhens-MacBook-Air/INFO/root: Response status code: 200
+[2024-10-24 18:20:58,709] huruilizhens-MacBook-Air/INFO/root: Response text: [2]
+[2024-10-24 18:20:59,523] huruilizhens-MacBook-Air/INFO/root: Response time: 323.47 ms
+[2024-10-24 18:20:59,523] huruilizhens-MacBook-Air/INFO/root: Response status code: 200
+[2024-10-24 18:20:59,523] huruilizhens-MacBook-Air/INFO/root: Response text: [2]
+[2024-10-24 18:20:59,530] huruilizhens-MacBook-Air/INFO/root: Response time: 314.80 ms
+[2024-10-24 18:20:59,530] huruilizhens-MacBook-Air/INFO/root: Response status code: 200
+[2024-10-24 18:20:59,530] huruilizhens-MacBook-Air/INFO/root: Response text: [2]
+[2024-10-24 18:20:59,609] huruilizhens-MacBook-Air/INFO/root: Response time: 312.31 ms
+[2024-10-24 18:20:59,610] huruilizhens-MacBook-Air/INFO/root: Response status code: 200
+[2024-10-24 18:20:59,610] huruilizhens-MacBook-Air/INFO/root: Response text: [2]
+[2024-10-24 18:20:59,705] huruilizhens-MacBook-Air/INFO/root: Response time: 311.31 ms
+[2024-10-24 18:20:59,705] huruilizhens-MacBook-Air/INFO/root: Response status code: 200
+[2024-10-24 18:20:59,705] huruilizhens-MacBook-Air/INFO/root: Response text: [2]
+[2024-10-24 18:21:00,186] huruilizhens-MacBook-Air/INFO/root: Response time: 323.55 ms
+[2024-10-24 18:21:00,186] huruilizhens-MacBook-Air/INFO/root: Response status code: 200
+[2024-10-24 18:21:00,186] huruilizhens-MacBook-Air/INFO/root: Response text: [2]
+[2024-10-24 18:21:00,275] huruilizhens-MacBook-Air/INFO/root: Response time: 338.19 ms
+[2024-10-24 18:21:00,276] huruilizhens-MacBook-Air/INFO/root: Response status code: 200
+[2024-10-24 18:21:00,276] huruilizhens-MacBook-Air/INFO/root: Response text: [2]
+[2024-10-24 18:21:02,484] huruilizhens-MacBook-Air/INFO/root: Response time: 297.46 ms
+[2024-10-24 18:21:02,484] huruilizhens-MacBook-Air/INFO/root: Response status code: 200
+[2024-10-24 18:21:02,485] huruilizhens-MacBook-Air/INFO/root: Response text: [2]
+[2024-10-24 18:21:03,092] huruilizhens-MacBook-Air/INFO/root: Response time: 322.42 ms
+[2024-10-24 18:21:03,092] huruilizhens-MacBook-Air/INFO/root: Response status code: 200
+[2024-10-24 18:21:03,092] huruilizhens-MacBook-Air/INFO/root: Response text: [2]
+[2024-10-24 18:21:03,126] huruilizhens-MacBook-Air/INFO/root: Response time: 316.46 ms
+[2024-10-24 18:21:03,126] huruilizhens-MacBook-Air/INFO/root: Response status code: 200
+[2024-10-24 18:21:03,126] huruilizhens-MacBook-Air/INFO/root: Response text: [2]
+[2024-10-24 18:21:03,345] huruilizhens-MacBook-Air/INFO/root: Response time: 319.58 ms
+[2024-10-24 18:21:03,346] huruilizhens-MacBook-Air/INFO/root: Response status code: 200
+[2024-10-24 18:21:03,346] huruilizhens-MacBook-Air/INFO/root: Response text: [2]
+[2024-10-24 18:21:03,853] huruilizhens-MacBook-Air/INFO/root: Response time: 320.26 ms
+[2024-10-24 18:21:03,853] huruilizhens-MacBook-Air/INFO/root: Response status code: 200
+[2024-10-24 18:21:03,853] huruilizhens-MacBook-Air/INFO/root: Response text: [2]
+[2024-10-24 18:21:03,867] huruilizhens-MacBook-Air/INFO/root: Response time: 318.98 ms
+[2024-10-24 18:21:03,868] huruilizhens-MacBook-Air/INFO/root: Response status code: 200
+[2024-10-24 18:21:03,868] huruilizhens-MacBook-Air/INFO/root: Response text: [2]
+[2024-10-24 18:21:04,573] huruilizhens-MacBook-Air/INFO/root: Response time: 326.05 ms
+[2024-10-24 18:21:04,573] huruilizhens-MacBook-Air/INFO/root: Response status code: 200
+[2024-10-24 18:21:04,573] huruilizhens-MacBook-Air/INFO/root: Response text: [2]
+[2024-10-24 18:21:04,956] huruilizhens-MacBook-Air/INFO/root: Response time: 484.24 ms
+[2024-10-24 18:21:04,956] huruilizhens-MacBook-Air/INFO/root: Response status code: 200
+[2024-10-24 18:21:04,956] huruilizhens-MacBook-Air/INFO/root: Response text: [2]
+[2024-10-24 18:21:04,956] huruilizhens-MacBook-Air/INFO/root: Response time: 413.78 ms
+[2024-10-24 18:21:04,957] huruilizhens-MacBook-Air/INFO/root: Response status code: 200
+[2024-10-24 18:21:04,957] huruilizhens-MacBook-Air/INFO/root: Response text: [2]
+[2024-10-24 18:21:05,431] huruilizhens-MacBook-Air/INFO/root: Response time: 325.45 ms
+[2024-10-24 18:21:05,432] huruilizhens-MacBook-Air/INFO/root: Response status code: 200
+[2024-10-24 18:21:05,432] huruilizhens-MacBook-Air/INFO/root: Response text: [2]
+[2024-10-24 18:21:06,193] huruilizhens-MacBook-Air/INFO/root: Response time: 315.40 ms
+[2024-10-24 18:21:06,193] huruilizhens-MacBook-Air/INFO/root: Response status code: 200
+[2024-10-24 18:21:06,193] huruilizhens-MacBook-Air/INFO/root: Response text: [2]
+[2024-10-24 18:21:07,096] huruilizhens-MacBook-Air/INFO/root: Response time: 326.52 ms
+[2024-10-24 18:21:07,097] huruilizhens-MacBook-Air/INFO/root: Response status code: 200
+[2024-10-24 18:21:07,097] huruilizhens-MacBook-Air/INFO/root: Response text: [2]
+[2024-10-24 18:21:07,169] huruilizhens-MacBook-Air/INFO/root: Response time: 318.11 ms
+[2024-10-24 18:21:07,170] huruilizhens-MacBook-Air/INFO/root: Response status code: 200
+[2024-10-24 18:21:07,170] huruilizhens-MacBook-Air/INFO/root: Response text: [2]
+[2024-10-24 18:21:07,189] huruilizhens-MacBook-Air/INFO/root: Response time: 330.75 ms
+[2024-10-24 18:21:07,189] huruilizhens-MacBook-Air/INFO/root: Response status code: 200
+[2024-10-24 18:21:07,189] huruilizhens-MacBook-Air/INFO/root: Response text: [2]
+[2024-10-24 18:21:07,317] huruilizhens-MacBook-Air/INFO/root: Response time: 321.33 ms
+[2024-10-24 18:21:07,317] huruilizhens-MacBook-Air/INFO/root: Response status code: 200
+[2024-10-24 18:21:07,318] huruilizhens-MacBook-Air/INFO/root: Response text: [2]
+[2024-10-24 18:21:08,280] huruilizhens-MacBook-Air/INFO/root: Response time: 318.50 ms
+[2024-10-24 18:21:08,280] huruilizhens-MacBook-Air/INFO/root: Response status code: 200
+[2024-10-24 18:21:08,280] huruilizhens-MacBook-Air/INFO/root: Response text: [2]
+[2024-10-24 18:21:08,381] huruilizhens-MacBook-Air/INFO/root: Response time: 316.62 ms
+[2024-10-24 18:21:08,382] huruilizhens-MacBook-Air/INFO/root: Response status code: 200
+[2024-10-24 18:21:08,382] huruilizhens-MacBook-Air/INFO/root: Response text: [2]
+[2024-10-24 18:21:08,719] huruilizhens-MacBook-Air/INFO/root: Response time: 322.85 ms
+[2024-10-24 18:21:08,719] huruilizhens-MacBook-Air/INFO/root: Response status code: 200
+[2024-10-24 18:21:08,719] huruilizhens-MacBook-Air/INFO/root: Response text: [2]
+[2024-10-24 18:21:08,847] huruilizhens-MacBook-Air/INFO/root: Response time: 324.06 ms
+[2024-10-24 18:21:08,848] huruilizhens-MacBook-Air/INFO/root: Response status code: 200
+[2024-10-24 18:21:08,848] huruilizhens-MacBook-Air/INFO/root: Response text: [2]
+[2024-10-24 18:21:09,852] huruilizhens-MacBook-Air/INFO/root: Response time: 332.92 ms
+[2024-10-24 18:21:09,852] huruilizhens-MacBook-Air/INFO/root: Response status code: 200
+[2024-10-24 18:21:09,852] huruilizhens-MacBook-Air/INFO/root: Response text: [2]
+[2024-10-24 18:21:09,975] huruilizhens-MacBook-Air/INFO/root: Response time: 328.12 ms
+[2024-10-24 18:21:09,976] huruilizhens-MacBook-Air/INFO/root: Response status code: 200
+[2024-10-24 18:21:09,976] huruilizhens-MacBook-Air/INFO/root: Response text: [2]
+[2024-10-24 18:21:10,939] huruilizhens-MacBook-Air/INFO/root: Response time: 334.28 ms
+[2024-10-24 18:21:10,940] huruilizhens-MacBook-Air/INFO/root: Response status code: 200
+[2024-10-24 18:21:10,940] huruilizhens-MacBook-Air/INFO/root: Response text: [2]
+[2024-10-24 18:21:11,443] huruilizhens-MacBook-Air/INFO/root: Response time: 322.77 ms
+[2024-10-24 18:21:11,443] huruilizhens-MacBook-Air/INFO/root: Response status code: 200
+[2024-10-24 18:21:11,443] huruilizhens-MacBook-Air/INFO/root: Response text: [2]
+[2024-10-24 18:21:11,469] huruilizhens-MacBook-Air/INFO/root: Response time: 321.07 ms
+[2024-10-24 18:21:11,469] huruilizhens-MacBook-Air/INFO/root: Response status code: 200
+[2024-10-24 18:21:11,469] huruilizhens-MacBook-Air/INFO/root: Response text: [2]
+[2024-10-24 18:21:12,023] huruilizhens-MacBook-Air/INFO/root: Response time: 333.11 ms
+[2024-10-24 18:21:12,023] huruilizhens-MacBook-Air/INFO/root: Response status code: 200
+[2024-10-24 18:21:12,023] huruilizhens-MacBook-Air/INFO/root: Response text: [2]
+[2024-10-24 18:21:12,202] huruilizhens-MacBook-Air/INFO/root: Response time: 329.32 ms
+[2024-10-24 18:21:12,203] huruilizhens-MacBook-Air/INFO/root: Response status code: 200
+[2024-10-24 18:21:12,203] huruilizhens-MacBook-Air/INFO/root: Response text: [2]
+[2024-10-24 18:21:12,733] huruilizhens-MacBook-Air/INFO/root: Response time: 329.85 ms
+[2024-10-24 18:21:12,734] huruilizhens-MacBook-Air/INFO/root: Response status code: 200
+[2024-10-24 18:21:12,734] huruilizhens-MacBook-Air/INFO/root: Response text: [2]
+[2024-10-24 18:21:12,806] huruilizhens-MacBook-Air/INFO/root: Response time: 327.08 ms
+[2024-10-24 18:21:12,807] huruilizhens-MacBook-Air/INFO/root: Response status code: 200
+[2024-10-24 18:21:12,807] huruilizhens-MacBook-Air/INFO/root: Response text: [2]
+[2024-10-24 18:21:13,044] huruilizhens-MacBook-Air/INFO/root: Response time: 313.77 ms
+[2024-10-24 18:21:13,044] huruilizhens-MacBook-Air/INFO/root: Response status code: 200
+[2024-10-24 18:21:13,045] huruilizhens-MacBook-Air/INFO/root: Response text: [2]
+[2024-10-24 18:21:13,517] huruilizhens-MacBook-Air/INFO/root: Response time: 312.58 ms
+[2024-10-24 18:21:13,518] huruilizhens-MacBook-Air/INFO/root: Response status code: 200
+[2024-10-24 18:21:13,518] huruilizhens-MacBook-Air/INFO/root: Response text: [2]
+[2024-10-24 18:21:14,851] huruilizhens-MacBook-Air/INFO/root: Response time: 310.24 ms
+[2024-10-24 18:21:14,851] huruilizhens-MacBook-Air/INFO/root: Response status code: 200
+[2024-10-24 18:21:14,851] huruilizhens-MacBook-Air/INFO/root: Response text: [2]
+[2024-10-24 18:21:14,938] huruilizhens-MacBook-Air/INFO/root: Response time: 284.22 ms
+[2024-10-24 18:21:14,939] huruilizhens-MacBook-Air/INFO/root: Response status code: 200
+[2024-10-24 18:21:14,939] huruilizhens-MacBook-Air/INFO/root: Response text: [2]
+[2024-10-24 18:21:14,978] huruilizhens-MacBook-Air/INFO/root: Response time: 277.08 ms
+[2024-10-24 18:21:14,979] huruilizhens-MacBook-Air/INFO/root: Response status code: 200
+[2024-10-24 18:21:14,979] huruilizhens-MacBook-Air/INFO/root: Response text: [2]
+[2024-10-24 18:21:15,059] huruilizhens-MacBook-Air/INFO/root: Response time: 282.18 ms
+[2024-10-24 18:21:15,060] huruilizhens-MacBook-Air/INFO/root: Response status code: 200
+[2024-10-24 18:21:15,060] huruilizhens-MacBook-Air/INFO/root: Response text: [2]
+[2024-10-24 18:21:15,688] huruilizhens-MacBook-Air/INFO/root: Response time: 345.17 ms
+[2024-10-24 18:21:15,688] huruilizhens-MacBook-Air/INFO/root: Response status code: 200
+[2024-10-24 18:21:15,688] huruilizhens-MacBook-Air/INFO/root: Response text: [2]
+[2024-10-24 18:21:16,836] huruilizhens-MacBook-Air/INFO/root: Response time: 457.44 ms
+[2024-10-24 18:21:16,837] huruilizhens-MacBook-Air/INFO/root: Response status code: 200
+[2024-10-24 18:21:16,837] huruilizhens-MacBook-Air/INFO/root: Response text: [2]
+[2024-10-24 18:21:17,335] huruilizhens-MacBook-Air/INFO/root: Response time: 330.50 ms
+[2024-10-24 18:21:17,335] huruilizhens-MacBook-Air/INFO/root: Response status code: 200
+[2024-10-24 18:21:17,335] huruilizhens-MacBook-Air/INFO/root: Response text: [2]
+[2024-10-24 18:21:17,707] huruilizhens-MacBook-Air/INFO/root: Response time: 281.10 ms
+[2024-10-24 18:21:17,708] huruilizhens-MacBook-Air/INFO/root: Response status code: 200
+[2024-10-24 18:21:17,708] huruilizhens-MacBook-Air/INFO/root: Response text: [2]
+[2024-10-24 18:21:17,884] huruilizhens-MacBook-Air/INFO/root: Response time: 287.25 ms
+[2024-10-24 18:21:17,884] huruilizhens-MacBook-Air/INFO/root: Response status code: 200
+[2024-10-24 18:21:17,885] huruilizhens-MacBook-Air/INFO/root: Response text: [2]
+[2024-10-24 18:21:17,922] huruilizhens-MacBook-Air/INFO/root: Response time: 289.74 ms
+[2024-10-24 18:21:17,923] huruilizhens-MacBook-Air/INFO/root: Response status code: 200
+[2024-10-24 18:21:17,923] huruilizhens-MacBook-Air/INFO/root: Response text: [2]
+[2024-10-24 18:21:19,131] huruilizhens-MacBook-Air/INFO/root: Response time: 318.87 ms
+[2024-10-24 18:21:19,131] huruilizhens-MacBook-Air/INFO/root: Response status code: 200
+[2024-10-24 18:21:19,132] huruilizhens-MacBook-Air/INFO/root: Response text: [2]
+[2024-10-24 18:21:19,398] huruilizhens-MacBook-Air/INFO/root: Response time: 313.94 ms
+[2024-10-24 18:21:19,398] huruilizhens-MacBook-Air/INFO/root: Response status code: 200
+[2024-10-24 18:21:19,398] huruilizhens-MacBook-Air/INFO/root: Response text: [2]
+[2024-10-24 18:21:19,559] huruilizhens-MacBook-Air/INFO/root: Response time: 316.40 ms
+[2024-10-24 18:21:19,560] huruilizhens-MacBook-Air/INFO/root: Response status code: 200
+[2024-10-24 18:21:19,560] huruilizhens-MacBook-Air/INFO/root: Response text: [2]
+[2024-10-24 18:21:19,685] huruilizhens-MacBook-Air/INFO/root: Response time: 319.84 ms
+[2024-10-24 18:21:19,686] huruilizhens-MacBook-Air/INFO/root: Response status code: 200
+[2024-10-24 18:21:19,686] huruilizhens-MacBook-Air/INFO/root: Response text: [2]
+[2024-10-24 18:21:20,012] huruilizhens-MacBook-Air/INFO/root: Response time: 325.91 ms
+[2024-10-24 18:21:20,012] huruilizhens-MacBook-Air/INFO/root: Response status code: 200
+[2024-10-24 18:21:20,012] huruilizhens-MacBook-Air/INFO/root: Response text: [2]
+[2024-10-24 18:21:21,095] huruilizhens-MacBook-Air/INFO/root: Response time: 326.35 ms
+[2024-10-24 18:21:21,095] huruilizhens-MacBook-Air/INFO/root: Response status code: 200
+[2024-10-24 18:21:21,096] huruilizhens-MacBook-Air/INFO/root: Response text: [2]
+[2024-10-24 18:21:21,752] huruilizhens-MacBook-Air/INFO/root: Response time: 363.61 ms
+[2024-10-24 18:21:21,752] huruilizhens-MacBook-Air/INFO/root: Response status code: 200
+[2024-10-24 18:21:21,752] huruilizhens-MacBook-Air/INFO/root: Response text: [2]
+[2024-10-24 18:21:21,776] huruilizhens-MacBook-Air/INFO/root: Response time: 327.38 ms
+[2024-10-24 18:21:21,776] huruilizhens-MacBook-Air/INFO/root: Response status code: 200
+[2024-10-24 18:21:21,777] huruilizhens-MacBook-Air/INFO/root: Response text: [2]
+[2024-10-24 18:21:22,242] huruilizhens-MacBook-Air/INFO/root: Response time: 475.77 ms
+[2024-10-24 18:21:22,242] huruilizhens-MacBook-Air/INFO/root: Response status code: 200
+[2024-10-24 18:21:22,242] huruilizhens-MacBook-Air/INFO/root: Response text: [2]
+[2024-10-24 18:21:22,897] huruilizhens-MacBook-Air/INFO/root: Response time: 349.43 ms
+[2024-10-24 18:21:22,897] huruilizhens-MacBook-Air/INFO/root: Response status code: 200
+[2024-10-24 18:21:22,897] huruilizhens-MacBook-Air/INFO/root: Response text: [2]
+[2024-10-24 18:21:23,418] huruilizhens-MacBook-Air/INFO/root: Response time: 317.84 ms
+[2024-10-24 18:21:23,418] huruilizhens-MacBook-Air/INFO/root: Response status code: 200
+[2024-10-24 18:21:23,418] huruilizhens-MacBook-Air/INFO/root: Response text: [2]
+[2024-10-24 18:21:23,695] huruilizhens-MacBook-Air/INFO/root: Response time: 316.52 ms
+[2024-10-24 18:21:23,696] huruilizhens-MacBook-Air/INFO/root: Response status code: 200
+[2024-10-24 18:21:23,696] huruilizhens-MacBook-Air/INFO/root: Response text: [2]
+[2024-10-24 18:21:23,982] huruilizhens-MacBook-Air/INFO/root: Response time: 326.02 ms
+[2024-10-24 18:21:23,982] huruilizhens-MacBook-Air/INFO/root: Response status code: 200
+[2024-10-24 18:21:23,982] huruilizhens-MacBook-Air/INFO/root: Response text: [2]
+[2024-10-24 18:21:24,260] huruilizhens-MacBook-Air/INFO/root: Response time: 322.32 ms
+[2024-10-24 18:21:24,260] huruilizhens-MacBook-Air/INFO/root: Response status code: 200
+[2024-10-24 18:21:24,260] huruilizhens-MacBook-Air/INFO/root: Response text: [2]
+[2024-10-24 18:21:24,534] huruilizhens-MacBook-Air/INFO/root: Response time: 340.71 ms
+[2024-10-24 18:21:24,534] huruilizhens-MacBook-Air/INFO/root: Response status code: 200
+[2024-10-24 18:21:24,534] huruilizhens-MacBook-Air/INFO/root: Response text: [2]
+[2024-10-24 18:21:25,243] huruilizhens-MacBook-Air/INFO/root: Response time: 397.17 ms
+[2024-10-24 18:21:25,243] huruilizhens-MacBook-Air/INFO/root: Response status code: 200
+[2024-10-24 18:21:25,243] huruilizhens-MacBook-Air/INFO/root: Response text: [2]
+[2024-10-24 18:21:25,753] huruilizhens-MacBook-Air/INFO/root: Response time: 298.56 ms
+[2024-10-24 18:21:25,754] huruilizhens-MacBook-Air/INFO/root: Response status code: 200
+[2024-10-24 18:21:25,754] huruilizhens-MacBook-Air/INFO/root: Response text: [2]
+[2024-10-24 18:21:26,328] huruilizhens-MacBook-Air/INFO/root: Response time: 320.54 ms
+[2024-10-24 18:21:26,328] huruilizhens-MacBook-Air/INFO/root: Response status code: 200
+[2024-10-24 18:21:26,328] huruilizhens-MacBook-Air/INFO/root: Response text: [2]
+[2024-10-24 18:21:26,636] huruilizhens-MacBook-Air/INFO/root: Response time: 337.14 ms
+[2024-10-24 18:21:26,636] huruilizhens-MacBook-Air/INFO/root: Response status code: 200
+[2024-10-24 18:21:26,637] huruilizhens-MacBook-Air/INFO/root: Response text: [2]
+[2024-10-24 18:21:26,856] huruilizhens-MacBook-Air/INFO/root: Response time: 331.26 ms
+[2024-10-24 18:21:26,856] huruilizhens-MacBook-Air/INFO/root: Response status code: 200
+[2024-10-24 18:21:26,856] huruilizhens-MacBook-Air/INFO/root: Response text: [2]
+[2024-10-24 18:21:27,223] huruilizhens-MacBook-Air/INFO/root: Response time: 327.69 ms
+[2024-10-24 18:21:27,223] huruilizhens-MacBook-Air/INFO/root: Response status code: 200
+[2024-10-24 18:21:27,224] huruilizhens-MacBook-Air/INFO/root: Response text: [2]
+[2024-10-24 18:21:27,653] huruilizhens-MacBook-Air/INFO/root: Response time: 322.25 ms
+[2024-10-24 18:21:27,654] huruilizhens-MacBook-Air/INFO/root: Response status code: 200
+[2024-10-24 18:21:27,654] huruilizhens-MacBook-Air/INFO/root: Response text: [2]
+[2024-10-24 18:21:28,143] huruilizhens-MacBook-Air/INFO/root: Response time: 365.22 ms
+[2024-10-24 18:21:28,144] huruilizhens-MacBook-Air/INFO/root: Response status code: 200
+[2024-10-24 18:21:28,144] huruilizhens-MacBook-Air/INFO/root: Response text: [2]
+[2024-10-24 18:21:28,840] huruilizhens-MacBook-Air/INFO/root: Response time: 317.17 ms
+[2024-10-24 18:21:28,840] huruilizhens-MacBook-Air/INFO/root: Response status code: 200
+[2024-10-24 18:21:28,841] huruilizhens-MacBook-Air/INFO/root: Response text: [2]
+[2024-10-24 18:21:28,919] huruilizhens-MacBook-Air/INFO/root: Response time: 311.16 ms
+[2024-10-24 18:21:28,919] huruilizhens-MacBook-Air/INFO/root: Response status code: 200
+[2024-10-24 18:21:28,919] huruilizhens-MacBook-Air/INFO/root: Response text: [2]
+[2024-10-24 18:21:29,234] huruilizhens-MacBook-Air/INFO/root: Response time: 319.81 ms
+[2024-10-24 18:21:29,234] huruilizhens-MacBook-Air/INFO/root: Response status code: 200
+[2024-10-24 18:21:29,234] huruilizhens-MacBook-Air/INFO/root: Response text: [2]
+[2024-10-24 18:21:30,122] huruilizhens-MacBook-Air/INFO/root: Response time: 313.67 ms
+[2024-10-24 18:21:30,122] huruilizhens-MacBook-Air/INFO/root: Response status code: 200
+[2024-10-24 18:21:30,123] huruilizhens-MacBook-Air/INFO/root: Response text: [2]
+[2024-10-24 18:21:30,223] huruilizhens-MacBook-Air/INFO/root: Response time: 310.20 ms
+[2024-10-24 18:21:30,223] huruilizhens-MacBook-Air/INFO/root: Response status code: 200
+[2024-10-24 18:21:30,223] huruilizhens-MacBook-Air/INFO/root: Response text: [2]
+[2024-10-24 18:21:30,251] huruilizhens-MacBook-Air/INFO/locust.main: --run-time limit reached, shutting down
+[2024-10-24 18:21:30,347] huruilizhens-MacBook-Air/INFO/locust.main: writing html report to file: locust_logs/test_locust_report.html
+[2024-10-24 18:21:30,349] huruilizhens-MacBook-Air/INFO/locust.main: Shutting down (exit code 0)

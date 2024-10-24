@@ -27,9 +27,3 @@ def lambda_handler(event, context):
         return {"statusCode": 200, "body": json.dumps(predictions)}
     except (KeyError, json.JSONDecodeError):
         return {"statusCode": 400, "body": json.dumps({"error": "Invalid input"})}
-
-
-if __name__ == "__main__":
-    data = {"values": [[0.1, 2, 0.1, 3]]}
-    payload = {"body": json.dumps(data)}
-    print(lambda_handler(payload, None))
